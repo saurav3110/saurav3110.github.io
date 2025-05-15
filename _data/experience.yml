@@ -1,0 +1,25 @@
+# Jobs
+# Senior Software Engineer of Blackhawk Network
+- company: Blackhawk Network
+  position: Senior Software Engineer
+  duration: Sep, 2022 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Architected and led the development of pension scheme projects, focusing on performance, reliability, and alignment with business objectives.</li><li>Led the transition from a monolithic architecture to a microservices-based system, improving scalability and system availability.</li></ul>
+
+# Technical Lead of Shiprocket
+- company: Shiprocket
+  position: Technical Lead
+  duration: Feb, 2020 &mdash; Sep, 2022
+  summary: <ul class="resume-item-list">
+    <li>Architected the billing microservice and automated the billing system.</li>
+    <li>Led the scalability team to optimize database architecture.</li>
+    <li>Develop backend data services & contribute to existing APIs’ enhancement.</li>
+    </ul>
+
+
+# Softdew Tech Pvt. Ltd. of Software Engineer
+- company: Softdew Tech Pvt. Ltd.
+  position: Software Engineer
+  duration:   Jul, 2017  &mdash; Feb, 2020
+  summary: <ul class="resume-item-list">
+    <li>Designed and optimized backend data services for high-performance, scalable applications, implementing CI/CD pipelines for automated deployments.</li>
+    </ul>
