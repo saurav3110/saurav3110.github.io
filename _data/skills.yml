@@ -1,5 +1,41 @@
 # Skills
 # Organizational leadership
-- skill: Home & Tech and Cyclescheme
-  description: Developed and enhanced robust microservices using the LAMP stack alongside
-    Angular and ReactJS.
+- skill: TECHNICAL SKILLS
+  description: <ul class="resume-item-list">
+    <li>PHP, Javascript, Go, Python</li>
+    </ul>
+
+- skill: FRAMEWORKS/LIBRARIES
+  description: <ul class="resume-item-list">
+    <li>Larave, ReactJS, Angular , Buffalo, Jquery, CodeIgniter, Tailwind, CSS</li>
+    </ul>
+
+- skill: DATABASES
+  description: <ul class="resume-item-list">
+    <li>MYSQL, MongoDB, postgreSql</li>
+    </ul>
+
+- skill: CACHING
+  description: <ul class="resume-item-list">
+    <li>Redis</li>
+    </ul>
+
+- skill: QUEUING
+  description: <ul class="resume-item-list">
+    <li>Kafka, SQS, rabbitMQ, Beanstalk</li>
+    </ul>
+
+- skill: AUTOMATION TESTING
+  description: <ul class="resume-item-list">
+    <li>PHPunit, Behat, Cypress, Karate</li>
+    </ul>
+
+- skill: LOGGING & MONITORING
+  description: <ul class="resume-item-list">
+    <li>New Relic, Grafana, Kibana, Sonarqube, Snyk</li>
+    </ul>
+
+- skill: DEVOPS / TOOLS
+  description: <ul class="resume-item-list">
+    <li>Docker, Kubernetes</li>
+    </ul>
