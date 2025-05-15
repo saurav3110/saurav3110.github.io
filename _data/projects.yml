@@ -1,16 +1,76 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# blackhawk
+- project: Home & Tech and Cyclescheme
+  role: 
+  duration: 
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list">
+    <li>Developed and enhanced robust microservices using the LAMP stack alongside
+    Angular and ReactJS.</li>
+    <li>Streamlined the onboarding process for new employees by implementing Python, PHP, Angular, and automated PHPUnit testing reducing 80% manual intervention.</li>
+    <li>Engineered and optimized ECS-based deployment to improve scalability, reducing deployment time by 40%.</li>
+    <li>Directed the transition of legacy systems to a contemporary stack while integrating automated testing methodologies to boost operational efficiency</li>
+    <li>Upgraded packages and refactored deprecated functions to eliminate Snyk vulnerabilities while maintaining existing functionality.</li>
+    </ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# blackhawk
+- project: Microsoft D365 integration (D365)
+  role: 
+  duration: 
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list">
+    <li>Integrated application with D365 to streamline business processes, enhance data flow, and improve overall system efficiency.</li>
+    <li>and improve overall system efficiency.
+    Refactored infrastructure by migrating applications from EC2-based deployments to Kubernetes on Amazon EKS, resulting in better scalability, maintainability, and cost optimization.</li>
+    </ul>
+
+# Shiprocket
+- project: Billing system automation
+  role: 
+  duration: 
+  # url: "#"
+  description: Architected and led the development of a scalable billing system, reducing processing time
+    by 70% through optimized microservices design.
+    <ul class="resume-item-list">
+    <li>Transformed a monolithic system into a microservice architecture to handle the registration and management of diverse invoice types and credit notes.</li>
+    <li>Architected and implemented seamless payment gateway integration, optimizing transaction validation and reducing processing errors by 30%.</li>
+    <li>Integrated third-party API to register all the invoices on the government portal.</li>
+    </ul>
+
+# Shiprocket
+- project: Wallet management and Vertical Sharding
+  role: 
+  duration: 
+  # url: "#"
+  description: <ul class="resume-item-list">
+    <li>Architected a high-throughput, distributed wallet API leveraging Confluent Kafka, Debezium, and KsqlDB, ensuring fault tolerance and data consistency at scale.</li>
+    <li>Developed a Go-based consumer to process wallet transactions and built a Wallet API to retrieve and display balance, utilizing the Go Buffalo framework.</li>
+    <li>Sharding, optimize database size and data flow to enable application scalability.</li>
+    </ul>
+
+# Shiprocket
+- project: Communication service
+  role: 
+  duration: 
+  # url: "#"
+  description: <ul class="resume-item-list">
+    <li>Architected a dedicated microservice to handle 10M+ email and SMS transactions daily,
+    improving delivery efficiency by 20%.</li>
+    </ul>
+
+# Softdew
+- project: Aviation projects
+  role: 
+  duration: 
+  # url: "#"
+  description: Optimized Flight Ground Operations
+    <ul class="resume-item-list">
+    <li>Developed and implemented solutions to streamline ground operations, reducing TAT
+    and improving efficiency in airport logistics removing paper work by 70%.</li>
+    </ul>
+    Crew Travel App Development
+    <ul class="resume-item-list">
+    <li>Developed and launched a app to manage crew travel itineraries, reducing scheduling conflicts, improving team communication and reducing 50% of manual work.</li>
+    </ul>
