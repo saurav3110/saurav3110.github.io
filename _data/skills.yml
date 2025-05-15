@@ -1,41 +1,41 @@
 # Skills
-# Organizational leadership
-- skill: TECHNICAL SKILLS
+# Organizational Leadership
+- skill: Technical Skills
   description: <ul class="resume-item-list">
     <li>PHP, Javascript, Go, Python</li>
     </ul>
 
-- skill: FRAMEWORKS/LIBRARIES
+- skill: Frameworks/Libraries
   description: <ul class="resume-item-list">
     <li>Larave, ReactJS, Angular , Buffalo, Jquery, CodeIgniter, Tailwind, CSS</li>
     </ul>
 
-- skill: DATABASES
+- skill: Databases
   description: <ul class="resume-item-list">
     <li>MYSQL, MongoDB, postgreSql</li>
     </ul>
 
-- skill: CACHING
+- skill: Caching
   description: <ul class="resume-item-list">
     <li>Redis</li>
     </ul>
 
-- skill: QUEUING
+- skill: Queuing
   description: <ul class="resume-item-list">
     <li>Kafka, SQS, rabbitMQ, Beanstalk</li>
     </ul>
 
-- skill: AUTOMATION TESTING
+- skill: Automation Testing
   description: <ul class="resume-item-list">
     <li>PHPunit, Behat, Cypress, Karate</li>
     </ul>
 
-- skill: LOGGING & MONITORING
+- skill: Logging & Monitoring
   description: <ul class="resume-item-list">
     <li>New Relic, Grafana, Kibana, Sonarqube, Snyk</li>
     </ul>
 
-- skill: DEVOPS / TOOLS
+- skill: DevOps / Tools
   description: <ul class="resume-item-list">
     <li>Docker, Kubernetes</li>
     </ul>
